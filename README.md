@@ -1,2 +1,2 @@
 # sample-spring-feign
-Sample project for Spring Feign
+Sample program for Spring Feign
